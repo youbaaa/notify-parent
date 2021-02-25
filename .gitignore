@@ -1,0 +1,4 @@
+# Project exclude paths
+/notify/target/
+/notify-common/target/
+/.idea/
